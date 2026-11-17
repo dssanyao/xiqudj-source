@@ -1,0 +1,848 @@
+{
+    "version": 1,
+    "updated": "2026-11-17",
+    "tracks": [
+        {
+            "key": "夸定云（DJ版 · 张口妞版）|张口妞",
+            "title": "夸定云（DJ版 · 张口妞版）",
+            "singer": "张口妞",
+            "opera": "豫剧名段《夸定云》",
+            "genre": "yuju",
+            "grade": "S",
+            "bpm": 126,
+            "duration": 198,
+            "scenes": [
+                "guangchang",
+                "jianshen"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%A4%B8%E5%AE%9A%E4%BA%91%EF%BC%88DJ%E7%89%88%20%C2%B7%20%E5%BC%A0%E5%8F%A3%E5%A6%9E%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "夸定云（DJ版 · DJ铁柱版）|DJ铁柱",
+            "title": "夸定云（DJ版 · DJ铁柱版）",
+            "singer": "DJ铁柱",
+            "opera": "豫剧名段《夸定云》",
+            "genre": "yuju",
+            "grade": "S",
+            "bpm": 138,
+            "duration": 186,
+            "scenes": [
+                "chezai",
+                "yedian"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%A4%B8%E5%AE%9A%E4%BA%91%EF%BC%88DJ%E7%89%88%20%C2%B7%20DJ%E9%93%81%E6%9F%B1%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "抬花轿（DJ广场舞版）|DJ阿杰",
+            "title": "抬花轿（DJ广场舞版）",
+            "singer": "DJ阿杰",
+            "opera": "豫剧《抬花轿》",
+            "genre": "yuju",
+            "grade": "S",
+            "bpm": 128,
+            "duration": 202,
+            "scenes": [
+                "guangchang"
+            ],
+            "source_url": "https://www.douyin.com/search/%E6%8A%AC%E8%8A%B1%E8%BD%BF%EF%BC%88DJ%E5%B9%BF%E5%9C%BA%E8%88%9E%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "谁说女子不如男（DJ卡点版）|DJ阿杰",
+            "title": "谁说女子不如男（DJ卡点版）",
+            "singer": "DJ阿杰",
+            "opera": "豫剧《花木兰》",
+            "genre": "yuju",
+            "grade": "S",
+            "bpm": 128,
+            "duration": 204,
+            "scenes": [
+                "guangchang",
+                "jianshen"
+            ],
+            "source_url": "https://www.douyin.com/search/%E8%B0%81%E8%AF%B4%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%A6%82%E7%94%B7%EF%BC%88DJ%E5%8D%A1%E7%82%B9%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "朝阳沟 · 银环上山（DJ晨练版）|DJ小辣椒",
+            "title": "朝阳沟 · 银环上山（DJ晨练版）",
+            "singer": "DJ小辣椒",
+            "opera": "豫剧《朝阳沟》",
+            "genre": "yuju",
+            "grade": "S",
+            "bpm": 124,
+            "duration": 192,
+            "scenes": [
+                "chenlian",
+                "guangchang"
+            ],
+            "source_url": "https://www.douyin.com/search/%E6%9C%9D%E9%98%B3%E6%B2%9F%20%C2%B7%20%E9%93%B6%E7%8E%AF%E4%B8%8A%E5%B1%B1%EF%BC%88DJ%E6%99%A8%E7%BB%83%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "白奶奶夸闺女（DJ版）|DJ小辣椒",
+            "title": "白奶奶夸闺女（DJ版）",
+            "singer": "DJ小辣椒",
+            "opera": "豫剧经典小段",
+            "genre": "yuju",
+            "grade": "S",
+            "bpm": 126,
+            "duration": 188,
+            "scenes": [
+                "guangchang",
+                "chenlian"
+            ],
+            "source_url": "https://www.douyin.com/search/%E7%99%BD%E5%A5%B6%E5%A5%B6%E5%A4%B8%E9%97%BA%E5%A5%B3%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "拷红（DJ慢摇版）|DJ京韵",
+            "title": "拷红（DJ慢摇版）",
+            "singer": "DJ京韵",
+            "opera": "京剧《西厢记》",
+            "genre": "jingju",
+            "grade": "S",
+            "bpm": 120,
+            "duration": 224,
+            "scenes": [
+                "manyao"
+            ],
+            "source_url": "https://www.douyin.com/search/%E6%8B%B7%E7%BA%A2%EF%BC%88DJ%E6%85%A2%E6%91%87%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "探阴山（DJ重低音版）|DJ包公",
+            "title": "探阴山（DJ重低音版）",
+            "singer": "DJ包公",
+            "opera": "京剧《探阴山》",
+            "genre": "jingju",
+            "grade": "S",
+            "bpm": 136,
+            "duration": 210,
+            "scenes": [
+                "chezai"
+            ],
+            "source_url": "https://www.douyin.com/search/%E6%8E%A2%E9%98%B4%E5%B1%B1%EF%BC%88DJ%E9%87%8D%E4%BD%8E%E9%9F%B3%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "谁料皇榜中状元（DJ健身版）|DJ状元红",
+            "title": "谁料皇榜中状元（DJ健身版）",
+            "singer": "DJ状元红",
+            "opera": "黄梅戏《女驸马》",
+            "genre": "huangmei",
+            "grade": "S",
+            "bpm": 126,
+            "duration": 188,
+            "scenes": [
+                "jianshen",
+                "guangchang"
+            ],
+            "source_url": "https://www.douyin.com/search/%E8%B0%81%E6%96%99%E7%9A%87%E6%A6%9C%E4%B8%AD%E7%8A%B6%E5%85%83%EF%BC%88DJ%E5%81%A5%E8%BA%AB%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "天上掉下个林妹妹（DJ轻鼓点版）|DJ越韵",
+            "title": "天上掉下个林妹妹（DJ轻鼓点版）",
+            "singer": "DJ越韵",
+            "opera": "越剧《红楼梦》",
+            "genre": "yueju",
+            "grade": "S",
+            "bpm": 118,
+            "duration": 209,
+            "scenes": [
+                "manyao",
+                "chenlian"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%A4%A9%E4%B8%8A%E6%8E%89%E4%B8%8B%E4%B8%AA%E6%9E%97%E5%A6%B9%E5%A6%B9%EF%BC%88DJ%E8%BD%BB%E9%BC%93%E7%82%B9%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "报花名（DJ广场舞版）|DJ评韵",
+            "title": "报花名（DJ广场舞版）",
+            "singer": "DJ评韵",
+            "opera": "评剧《花为媒》",
+            "genre": "pingju",
+            "grade": "S",
+            "bpm": 126,
+            "duration": 197,
+            "scenes": [
+                "guangchang",
+                "jianshen"
+            ],
+            "source_url": "https://www.douyin.com/search/%E6%8A%A5%E8%8A%B1%E5%90%8D%EF%BC%88DJ%E5%B9%BF%E5%9C%BA%E8%88%9E%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "祖籍陕西韩城县（DJ重低音版）|DJ秦声",
+            "title": "祖籍陕西韩城县（DJ重低音版）",
+            "singer": "DJ秦声",
+            "opera": "秦腔《三滴血》",
+            "genre": "qinqiang",
+            "grade": "S",
+            "bpm": 132,
+            "duration": 221,
+            "scenes": [
+                "chezai"
+            ],
+            "source_url": "https://www.douyin.com/search/%E7%A5%96%E7%B1%8D%E9%99%95%E8%A5%BF%E9%9F%A9%E5%9F%8E%E5%8E%BF%EF%BC%88DJ%E9%87%8D%E4%BD%8E%E9%9F%B3%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "十八相送（DJ舒缓版）|DJ梁祝",
+            "title": "十八相送（DJ舒缓版）",
+            "singer": "DJ梁祝",
+            "opera": "越剧《梁山伯与祝英台》",
+            "genre": "yueju",
+            "grade": "S",
+            "bpm": 115,
+            "duration": 228,
+            "scenes": [
+                "chenlian",
+                "manyao"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%8D%81%E5%85%AB%E7%9B%B8%E9%80%81%EF%BC%88DJ%E8%88%92%E7%BC%93%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "打虎上山（DJ高能版）|DJ霸王",
+            "title": "打虎上山（DJ高能版）",
+            "singer": "DJ霸王",
+            "opera": "京剧《智取威虎山》",
+            "genre": "jingju",
+            "grade": "S",
+            "bpm": 142,
+            "duration": 178,
+            "scenes": [
+                "yedian",
+                "chezai"
+            ],
+            "source_url": "https://www.douyin.com/search/%E6%89%93%E8%99%8E%E4%B8%8A%E5%B1%B1%EF%BC%88DJ%E9%AB%98%E8%83%BD%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "香夭（DJ粤韵版）|DJ粤声",
+            "title": "香夭（DJ粤韵版）",
+            "singer": "DJ粤声",
+            "opera": "粤剧《帝女花》",
+            "genre": "yueju-gd",
+            "grade": "S",
+            "bpm": 120,
+            "duration": 245,
+            "scenes": [
+                "manyao",
+                "chezai"
+            ],
+            "source_url": "https://www.douyin.com/search/%E9%A6%99%E5%A4%AD%EF%BC%88DJ%E7%B2%A4%E9%9F%B5%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "亲家母你坐下（DJ广场舞版）|DJ阿杰",
+            "title": "亲家母你坐下（DJ广场舞版）",
+            "singer": "DJ阿杰",
+            "opera": "豫剧《朝阳沟》",
+            "genre": "yuju",
+            "grade": "A",
+            "bpm": 124,
+            "duration": 206,
+            "scenes": [
+                "guangchang"
+            ],
+            "source_url": "https://www.douyin.com/search/%E4%BA%B2%E5%AE%B6%E6%AF%8D%E4%BD%A0%E5%9D%90%E4%B8%8B%EF%BC%88DJ%E5%B9%BF%E5%9C%BA%E8%88%9E%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "三哭殿（DJ版）|DJ中原",
+            "title": "三哭殿（DJ版）",
+            "singer": "DJ中原",
+            "opera": "豫剧《三哭殿》",
+            "genre": "yuju",
+            "grade": "B",
+            "bpm": 128,
+            "duration": 214,
+            "scenes": [
+                "chezai"
+            ],
+            "source_url": "https://www.douyin.com/search/%E4%B8%89%E5%93%AD%E6%AE%BF%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "大祭桩（DJ版）|DJ中原",
+            "title": "大祭桩（DJ版）",
+            "singer": "DJ中原",
+            "opera": "豫剧《大祭桩》",
+            "genre": "yuju",
+            "grade": "B",
+            "bpm": 120,
+            "duration": 218,
+            "scenes": [
+                "chenlian"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%A4%A7%E7%A5%AD%E6%A1%A9%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "卷席筒（DJ版）|DJ小辣椒",
+            "title": "卷席筒（DJ版）",
+            "singer": "DJ小辣椒",
+            "opera": "豫剧《卷席筒》",
+            "genre": "yuju",
+            "grade": "B",
+            "bpm": 126,
+            "duration": 196,
+            "scenes": [
+                "guangchang"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%8D%B7%E5%B8%AD%E7%AD%92%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "七品芝麻官（DJ版）|DJ阿杰",
+            "title": "七品芝麻官（DJ版）",
+            "singer": "DJ阿杰",
+            "opera": "豫剧《七品芝麻官》",
+            "genre": "yuju",
+            "grade": "B",
+            "bpm": 130,
+            "duration": 190,
+            "scenes": [
+                "jianshen"
+            ],
+            "source_url": "https://www.douyin.com/search/%E4%B8%83%E5%93%81%E8%8A%9D%E9%BA%BB%E5%AE%98%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "桃花庵（DJ慢摇版）|DJ中原",
+            "title": "桃花庵（DJ慢摇版）",
+            "singer": "DJ中原",
+            "opera": "豫剧《桃花庵》",
+            "genre": "yuju",
+            "grade": "C",
+            "bpm": 118,
+            "duration": 222,
+            "scenes": [
+                "manyao"
+            ],
+            "source_url": "https://www.douyin.com/search/%E6%A1%83%E8%8A%B1%E5%BA%B5%EF%BC%88DJ%E6%85%A2%E6%91%87%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "花打朝（DJ版）|DJ小辣椒",
+            "title": "花打朝（DJ版）",
+            "singer": "DJ小辣椒",
+            "opera": "豫剧《花打朝》",
+            "genre": "yuju",
+            "grade": "C",
+            "bpm": 126,
+            "duration": 194,
+            "scenes": [
+                "guangchang"
+            ],
+            "source_url": "https://www.douyin.com/search/%E8%8A%B1%E6%89%93%E6%9C%9D%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "南阳关（DJ车载版）|DJ中原",
+            "title": "南阳关（DJ车载版）",
+            "singer": "DJ中原",
+            "opera": "豫剧《南阳关》",
+            "genre": "yuju",
+            "grade": "C",
+            "bpm": 132,
+            "duration": 208,
+            "scenes": [
+                "chezai"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%8D%97%E9%98%B3%E5%85%B3%EF%BC%88DJ%E8%BD%A6%E8%BD%BD%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "我正在城楼观山景（DJ车载版）|DJ孔明",
+            "title": "我正在城楼观山景（DJ车载版）",
+            "singer": "DJ孔明",
+            "opera": "京剧《空城计》",
+            "genre": "jingju",
+            "grade": "A",
+            "bpm": 128,
+            "duration": 214,
+            "scenes": [
+                "chezai"
+            ],
+            "source_url": "https://www.douyin.com/search/%E6%88%91%E6%AD%A3%E5%9C%A8%E5%9F%8E%E6%A5%BC%E8%A7%82%E5%B1%B1%E6%99%AF%EF%BC%88DJ%E8%BD%A6%E8%BD%BD%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "劝君王饮酒听虞歌（DJ高能版）|DJ霸王",
+            "title": "劝君王饮酒听虞歌（DJ高能版）",
+            "singer": "DJ霸王",
+            "opera": "京剧《霸王别姬》",
+            "genre": "jingju",
+            "grade": "A",
+            "bpm": 140,
+            "duration": 183,
+            "scenes": [
+                "yedian"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%8A%9D%E5%90%9B%E7%8E%8B%E9%A5%AE%E9%85%92%E5%90%AC%E8%99%9E%E6%AD%8C%EF%BC%88DJ%E9%AB%98%E8%83%BD%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "锁麟囊选段（DJ慢摇版）|DJ京韵",
+            "title": "锁麟囊选段（DJ慢摇版）",
+            "singer": "DJ京韵",
+            "opera": "京剧《锁麟囊》",
+            "genre": "jingju",
+            "grade": "B",
+            "bpm": 118,
+            "duration": 230,
+            "scenes": [
+                "manyao"
+            ],
+            "source_url": "https://www.douyin.com/search/%E9%94%81%E9%BA%9F%E5%9B%8A%E9%80%89%E6%AE%B5%EF%BC%88DJ%E6%85%A2%E6%91%87%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "四郎探母选段（DJ版）|DJ京韵",
+            "title": "四郎探母选段（DJ版）",
+            "singer": "DJ京韵",
+            "opera": "京剧《四郎探母》",
+            "genre": "jingju",
+            "grade": "B",
+            "bpm": 122,
+            "duration": 216,
+            "scenes": [
+                "chenlian"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%9B%9B%E9%83%8E%E6%8E%A2%E6%AF%8D%E9%80%89%E6%AE%B5%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "智斗（DJ版）|DJ孔明",
+            "title": "智斗（DJ版）",
+            "singer": "DJ孔明",
+            "opera": "京剧《沙家浜》",
+            "genre": "jingju",
+            "grade": "B",
+            "bpm": 130,
+            "duration": 192,
+            "scenes": [
+                "jianshen"
+            ],
+            "source_url": "https://www.douyin.com/search/%E6%99%BA%E6%96%97%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "都有一颗红亮的心（DJ版）|DJ霸王",
+            "title": "都有一颗红亮的心（DJ版）",
+            "singer": "DJ霸王",
+            "opera": "京剧《红灯记》",
+            "genre": "jingju",
+            "grade": "C",
+            "bpm": 128,
+            "duration": 186,
+            "scenes": [
+                "jianshen"
+            ],
+            "source_url": "https://www.douyin.com/search/%E9%83%BD%E6%9C%89%E4%B8%80%E9%A2%97%E7%BA%A2%E4%BA%AE%E7%9A%84%E5%BF%83%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "对花（DJ跳操版）|DJ对花",
+            "title": "对花（DJ跳操版）",
+            "singer": "DJ对花",
+            "opera": "黄梅戏《对花》",
+            "genre": "huangmei",
+            "grade": "A",
+            "bpm": 130,
+            "duration": 181,
+            "scenes": [
+                "jianshen",
+                "guangchang"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%AF%B9%E8%8A%B1%EF%BC%88DJ%E8%B7%B3%E6%93%8D%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "牛郎织女选段（DJ版）|DJ黄梅",
+            "title": "牛郎织女选段（DJ版）",
+            "singer": "DJ黄梅",
+            "opera": "黄梅戏《牛郎织女》",
+            "genre": "huangmei",
+            "grade": "B",
+            "bpm": 120,
+            "duration": 212,
+            "scenes": [
+                "chenlian"
+            ],
+            "source_url": "https://www.douyin.com/search/%E7%89%9B%E9%83%8E%E7%BB%87%E5%A5%B3%E9%80%89%E6%AE%B5%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "孟姜女选段（DJ版）|DJ黄梅",
+            "title": "孟姜女选段（DJ版）",
+            "singer": "DJ黄梅",
+            "opera": "黄梅戏《孟姜女》",
+            "genre": "huangmei",
+            "grade": "B",
+            "bpm": 118,
+            "duration": 220,
+            "scenes": [
+                "chenlian"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%AD%9F%E5%A7%9C%E5%A5%B3%E9%80%89%E6%AE%B5%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "小辞店选段（DJ慢摇版）|DJ状元红",
+            "title": "小辞店选段（DJ慢摇版）",
+            "singer": "DJ状元红",
+            "opera": "黄梅戏《小辞店》",
+            "genre": "huangmei",
+            "grade": "C",
+            "bpm": 118,
+            "duration": 226,
+            "scenes": [
+                "manyao"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%B0%8F%E8%BE%9E%E5%BA%97%E9%80%89%E6%AE%B5%EF%BC%88DJ%E6%85%A2%E6%91%87%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "春江月选段（DJ晨练版）|DJ对花",
+            "title": "春江月选段（DJ晨练版）",
+            "singer": "DJ对花",
+            "opera": "黄梅戏《春江月》",
+            "genre": "huangmei",
+            "grade": "C",
+            "bpm": 116,
+            "duration": 204,
+            "scenes": [
+                "chenlian"
+            ],
+            "source_url": "https://www.douyin.com/search/%E6%98%A5%E6%B1%9F%E6%9C%88%E9%80%89%E6%AE%B5%EF%BC%88DJ%E6%99%A8%E7%BB%83%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "楼台会（DJ版）|DJ梁祝",
+            "title": "楼台会（DJ版）",
+            "singer": "DJ梁祝",
+            "opera": "越剧《梁山伯与祝英台》",
+            "genre": "yueju",
+            "grade": "A",
+            "bpm": 118,
+            "duration": 218,
+            "scenes": [
+                "manyao"
+            ],
+            "source_url": "https://www.douyin.com/search/%E6%A5%BC%E5%8F%B0%E4%BC%9A%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "送凤冠（DJ晨练版）|DJ凤冠",
+            "title": "送凤冠（DJ晨练版）",
+            "singer": "DJ凤冠",
+            "opera": "越剧《送凤冠》",
+            "genre": "yueju",
+            "grade": "B",
+            "bpm": 122,
+            "duration": 201,
+            "scenes": [
+                "chenlian"
+            ],
+            "source_url": "https://www.douyin.com/search/%E9%80%81%E5%87%A4%E5%86%A0%EF%BC%88DJ%E6%99%A8%E7%BB%83%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "碧玉簪选段（DJ版）|DJ越韵",
+            "title": "碧玉簪选段（DJ版）",
+            "singer": "DJ越韵",
+            "opera": "越剧《碧玉簪》",
+            "genre": "yueju",
+            "grade": "B",
+            "bpm": 120,
+            "duration": 210,
+            "scenes": [
+                "manyao"
+            ],
+            "source_url": "https://www.douyin.com/search/%E7%A2%A7%E7%8E%89%E7%B0%AA%E9%80%89%E6%AE%B5%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "追鱼选段（DJ慢摇版）|DJ凤冠",
+            "title": "追鱼选段（DJ慢摇版）",
+            "singer": "DJ凤冠",
+            "opera": "越剧《追鱼》",
+            "genre": "yueju",
+            "grade": "C",
+            "bpm": 117,
+            "duration": 224,
+            "scenes": [
+                "manyao"
+            ],
+            "source_url": "https://www.douyin.com/search/%E8%BF%BD%E9%B1%BC%E9%80%89%E6%AE%B5%EF%BC%88DJ%E6%85%A2%E6%91%87%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "何文秀选段（DJ版）|DJ越韵",
+            "title": "何文秀选段（DJ版）",
+            "singer": "DJ越韵",
+            "opera": "越剧《何文秀》",
+            "genre": "yueju",
+            "grade": "C",
+            "bpm": 124,
+            "duration": 198,
+            "scenes": [
+                "guangchang"
+            ],
+            "source_url": "https://www.douyin.com/search/%E4%BD%95%E6%96%87%E7%A7%80%E9%80%89%E6%AE%B5%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "卖水（DJ燃脂版）|DJ火焰",
+            "title": "卖水（DJ燃脂版）",
+            "singer": "DJ火焰",
+            "opera": "秦腔《火焰驹》",
+            "genre": "qinqiang",
+            "grade": "A",
+            "bpm": 135,
+            "duration": 186,
+            "scenes": [
+                "jianshen"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%8D%96%E6%B0%B4%EF%BC%88DJ%E7%87%83%E8%84%82%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "周仁回府选段（DJ车载版）|DJ秦声",
+            "title": "周仁回府选段（DJ车载版）",
+            "singer": "DJ秦声",
+            "opera": "秦腔《周仁回府》",
+            "genre": "qinqiang",
+            "grade": "B",
+            "bpm": 132,
+            "duration": 212,
+            "scenes": [
+                "chezai"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%91%A8%E4%BB%81%E5%9B%9E%E5%BA%9C%E9%80%89%E6%AE%B5%EF%BC%88DJ%E8%BD%A6%E8%BD%BD%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "巧儿我自幼许配赵家（DJ版）|DJ巧儿",
+            "title": "巧儿我自幼许配赵家（DJ版）",
+            "singer": "DJ巧儿",
+            "opera": "评剧《刘巧儿》",
+            "genre": "pingju",
+            "grade": "A",
+            "bpm": 124,
+            "duration": 199,
+            "scenes": [
+                "guangchang"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%B7%A7%E5%84%BF%E6%88%91%E8%87%AA%E5%B9%BC%E8%AE%B8%E9%85%8D%E8%B5%B5%E5%AE%B6%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "见皇姑（DJ健身版）|DJ香莲",
+            "title": "见皇姑（DJ健身版）",
+            "singer": "DJ香莲",
+            "opera": "评剧《秦香莲》",
+            "genre": "pingju",
+            "grade": "B",
+            "bpm": 126,
+            "duration": 194,
+            "scenes": [
+                "jianshen"
+            ],
+            "source_url": "https://www.douyin.com/search/%E8%A7%81%E7%9A%87%E5%A7%91%EF%BC%88DJ%E5%81%A5%E8%BA%AB%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "君王曾在南桥上（DJ版）|DJ晋韵",
+            "title": "君王曾在南桥上（DJ版）",
+            "singer": "DJ晋韵",
+            "opera": "晋剧《打金枝》",
+            "genre": "jinju",
+            "grade": "A",
+            "bpm": 124,
+            "duration": 213,
+            "scenes": [
+                "guangchang"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%90%9B%E7%8E%8B%E6%9B%BE%E5%9C%A8%E5%8D%97%E6%A1%A5%E4%B8%8A%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "老爹爹清晨起前去算粮（DJ版）|DJ算盘",
+            "title": "老爹爹清晨起前去算粮（DJ版）",
+            "singer": "DJ算盘",
+            "opera": "晋剧《算粮》",
+            "genre": "jinju",
+            "grade": "B",
+            "bpm": 122,
+            "duration": 205,
+            "scenes": [
+                "chenlian"
+            ],
+            "source_url": "https://www.douyin.com/search/%E8%80%81%E7%88%B9%E7%88%B9%E6%B8%85%E6%99%A8%E8%B5%B7%E5%89%8D%E5%8E%BB%E7%AE%97%E7%B2%AE%EF%BC%88DJ%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "分飞燕（DJ慢摇版）|DJ南音",
+            "title": "分飞燕（DJ慢摇版）",
+            "singer": "DJ南音",
+            "opera": "粤剧《分飞燕》",
+            "genre": "yueju-gd",
+            "grade": "B",
+            "bpm": 118,
+            "duration": 232,
+            "scenes": [
+                "manyao"
+            ],
+            "source_url": "https://www.douyin.com/search/%E5%88%86%E9%A3%9E%E7%87%95%EF%BC%88DJ%E6%85%A2%E6%91%87%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "狄青闯三关（DJ夜店版）|DJ狄青",
+            "title": "狄青闯三关（DJ夜店版）",
+            "singer": "DJ狄青",
+            "opera": "粤剧《狄青闯三关》",
+            "genre": "yueju-gd",
+            "grade": "B",
+            "bpm": 140,
+            "duration": 179,
+            "scenes": [
+                "yedian"
+            ],
+            "source_url": "https://www.douyin.com/search/%E7%8B%84%E9%9D%92%E9%97%AF%E4%B8%89%E5%85%B3%EF%BC%88DJ%E5%A4%9C%E5%BA%97%E7%89%88%EF%BC%89"
+        },
+        {
+            "key": "赤伶（戏腔流行）|执素兮",
+            "title": "赤伶（戏腔流行）",
+            "singer": "执素兮",
+            "opera": "国风歌曲 · 戏腔代表作",
+            "genre": "pop",
+            "grade": "A",
+            "bpm": 132,
+            "duration": 240,
+            "scenes": [
+                "yedian",
+                "manyao"
+            ],
+            "source_url": "https://www.douyin.com/search/%E8%B5%A4%E4%BC%B6%EF%BC%88%E6%88%8F%E8%85%94%E6%B5%81%E8%A1%8C%EF%BC%89"
+        },
+        {
+            "key": "牵丝戏（戏腔流行）|银临 / Aki阿杰",
+            "title": "牵丝戏（戏腔流行）",
+            "singer": "银临 / Aki阿杰",
+            "opera": "国风歌曲 · 戏腔代表作",
+            "genre": "pop",
+            "grade": "A",
+            "bpm": 124,
+            "duration": 216,
+            "scenes": [
+                "manyao"
+            ],
+            "source_url": "https://www.douyin.com/search/%E7%89%B5%E4%B8%9D%E6%88%8F%EF%BC%88%E6%88%8F%E8%85%94%E6%B5%81%E8%A1%8C%EF%BC%89"
+        },
+        {
+            "key": "探窗（戏腔流行）|浮生梦",
+            "title": "探窗（戏腔流行）",
+            "singer": "浮生梦",
+            "opera": "国风歌曲 · 戏腔代表作",
+            "genre": "pop",
+            "grade": "B",
+            "bpm": 128,
+            "duration": 198,
+            "scenes": [
+                "yedian",
+                "jianshen"
+            ],
+            "source_url": "https://www.douyin.com/search/%E6%8E%A2%E7%AA%97%EF%BC%88%E6%88%8F%E8%85%94%E6%B5%81%E8%A1%8C%EF%BC%89"
+        }
+    ],
+    "charts": {
+        "douyin": [
+            {
+                "key": "夸定云（DJ版 · 张口妞版）|张口妞",
+                "trend": "up"
+            },
+            {
+                "key": "谁说女子不如男（DJ卡点版）|DJ阿杰",
+                "trend": "up"
+            },
+            {
+                "key": "打虎上山（DJ高能版）|DJ霸王",
+                "trend": "up"
+            },
+            {
+                "key": "谁料皇榜中状元（DJ健身版）|DJ状元红",
+                "trend": "new"
+            },
+            {
+                "key": "天上掉下个林妹妹（DJ轻鼓点版）|DJ越韵",
+                "trend": "up"
+            },
+            {
+                "key": "抬花轿（DJ广场舞版）|DJ阿杰",
+                "trend": "dn"
+            },
+            {
+                "key": "赤伶（戏腔流行）|执素兮",
+                "trend": "new"
+            },
+            {
+                "key": "报花名（DJ广场舞版）|DJ评韵",
+                "trend": "up"
+            },
+            {
+                "key": "劝君王饮酒听虞歌（DJ高能版）|DJ霸王",
+                "trend": "up"
+            },
+            {
+                "key": "楼台会（DJ版）|DJ梁祝",
+                "trend": "dn"
+            }
+        ],
+        "kuaishou": [
+            {
+                "key": "夸定云（DJ版 · DJ铁柱版）|DJ铁柱",
+                "trend": "up"
+            },
+            {
+                "key": "报花名（DJ广场舞版）|DJ评韵",
+                "trend": "up"
+            },
+            {
+                "key": "亲家母你坐下（DJ广场舞版）|DJ阿杰",
+                "trend": "up"
+            },
+            {
+                "key": "抬花轿（DJ广场舞版）|DJ阿杰",
+                "trend": "dn"
+            },
+            {
+                "key": "对花（DJ跳操版）|DJ对花",
+                "trend": "up"
+            },
+            {
+                "key": "巧儿我自幼许配赵家（DJ版）|DJ巧儿",
+                "trend": "new"
+            },
+            {
+                "key": "朝阳沟 · 银环上山（DJ晨练版）|DJ小辣椒",
+                "trend": "up"
+            },
+            {
+                "key": "白奶奶夸闺女（DJ版）|DJ小辣椒",
+                "trend": "new"
+            },
+            {
+                "key": "君王曾在南桥上（DJ版）|DJ晋韵",
+                "trend": "up"
+            },
+            {
+                "key": "春江月选段（DJ晨练版）|DJ对花",
+                "trend": "dn"
+            }
+        ],
+        "shipinhao": [
+            {
+                "key": "夸定云（DJ版 · 张口妞版）|张口妞",
+                "trend": "up"
+            },
+            {
+                "key": "香夭（DJ粤韵版）|DJ粤声",
+                "trend": "up"
+            },
+            {
+                "key": "祖籍陕西韩城县（DJ重低音版）|DJ秦声",
+                "trend": "up"
+            },
+            {
+                "key": "十八相送（DJ舒缓版）|DJ梁祝",
+                "trend": "up"
+            },
+            {
+                "key": "拷红（DJ慢摇版）|DJ京韵",
+                "trend": "new"
+            },
+            {
+                "key": "探阴山（DJ重低音版）|DJ包公",
+                "trend": "dn"
+            },
+            {
+                "key": "朝阳沟 · 银环上山（DJ晨练版）|DJ小辣椒",
+                "trend": "up"
+            },
+            {
+                "key": "天上掉下个林妹妹（DJ轻鼓点版）|DJ越韵",
+                "trend": "up"
+            },
+            {
+                "key": "老爹爹清晨起前去算粮（DJ版）|DJ算盘",
+                "trend": "new"
+            },
+            {
+                "key": "碧玉簪选段（DJ版）|DJ越韵",
+                "trend": "dn"
+            }
+        ]
+    }
+}
